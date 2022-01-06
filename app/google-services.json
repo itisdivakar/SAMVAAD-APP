@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2616296626",
+    "project_id": "samvaad-d6d02",
+    "storage_bucket": "samvaad-d6d02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2616296626:android:2fe221bdcbba75362475ab",
+        "android_client_info": {
+          "package_name": "com.example.samvaad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2616296626-me0ju27ju6q42f0726n79i6743kpc7c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQRV_y0Laxw_VJdQEqiy_w6my09CcsU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2616296626-me0ju27ju6q42f0726n79i6743kpc7c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
