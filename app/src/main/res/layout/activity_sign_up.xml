@@ -11,9 +11,9 @@
         android:id="@+id/app_logo"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:src="@drawable/icon_for_chat3"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="70dp"/>
+        android:layout_marginTop="70dp"
+        android:src="@drawable/icon_for_chat3" />
 
     <EditText
         android:id="@+id/edt_name"
@@ -55,18 +55,17 @@
         android:drawableStart="@drawable/ic_lock"/>
 
 
-
     <Button
         android:id="@+id/btnSignUp"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/edt_password"
-        android:text="Sign Up"
-        android:background="@drawable/btn_backgrounf"
-        android:textColor="@color/white"
-        android:textSize="20sp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"/>
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_backgrounf"
+        android:text="Sign Up"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
 
 
 </RelativeLayout>
