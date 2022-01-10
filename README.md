@@ -52,3 +52,7 @@ Future Scope:
 We can use this app in our AIT campus as a AIT specific chat app, and its source code is open, so any aitian can contribute to it and different features...
 as it grows, it will become more polished. It has a lot to do but unitedly if we contribute to it occassionaly, then it can be have an awesome experience...its amazing to have 
 an app that we can use in our campus developed by our own batchmates and upgrading it too as per out demands.
+
+
+
+{*This is just an idea...please ignore it, if it a bad idea}
