@@ -55,4 +55,4 @@ an app that we can use in our campus developed by our own batchmates and upgradi
 
 
 
-{*This is just an idea...please ignore it, if it a bad idea}
+{*This is just an idea...please ignore it, if it is a bad idea}
